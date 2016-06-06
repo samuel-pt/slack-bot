@@ -98,4 +98,5 @@ public class Command {
                 + channel_id + ", channel_name=" + channel_name + ", user_id=" + user_id + ", user_name=" + user_name
                 + ", command=" + command + ", text=" + text + ", response_url=" + response_url + "]";
     }
+
 }
